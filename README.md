@@ -1,6 +1,6 @@
 # Eyaas Ajmal 
----
-#👨‍💻 AI-ML Engineer
+
+👨‍💻 AI-ML Engineer
 
 ---
 
