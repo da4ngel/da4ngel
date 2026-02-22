@@ -1,8 +1,7 @@
-# 👋 Hi, I’m Eyaas
+# Eyaas
 
-👨‍💻 Full-Stack Developer (MERN) | Data Science Undergraduate  
-📍 Sri Lanka | Open to Internships & Junior Software Roles  
-
+👨‍💻 AI-ML Engineer
+📍 Sri Lanka
 ---
 
 ## 🚀 About Me
