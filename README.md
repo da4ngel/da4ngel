@@ -75,7 +75,7 @@ A real-time ticketing system built to track, update, and resolve issues efficien
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
@@ -95,10 +95,6 @@ My repositories reflect real development workflows rather than one-off experimen
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
----
 
 ⭐ If you’re a recruiter or developer, feel free to explore my repositories and reach out. I’m always open to learning, collaboration, and new opportunities.
 
