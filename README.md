@@ -15,32 +15,30 @@ I focus on writing clean, scalable, and maintainable code while building product
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- React
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+### 🎨 Frontend
+- **React** — Component-based UI development  
+- **JavaScript (ES6+)** — Modern, clean client-side logic  
+- **HTML5 & CSS3** — Responsive and accessible layouts  
 
-**Backend**
-- Node.js
-- Express.js
+### ⚙️ Backend
+- **Node.js** — Scalable server-side runtime  
+- **Express.js** — RESTful API development  
 
-**Databases**
-- MongoDB
-- MySQL
+### 🗄️ Databases
+- **MongoDB** — NoSQL database for flexible data models  
+- **MySQL** — Relational database design and queries  
 
-**Tools & Platforms**
-- Git & GitHub
-- Postman
-- VS Code
-- Eclipse
+### 🧰 Tools & Workflow
+- **Git & GitHub** — Version control and collaboration  
+- **Postman** — API testing and debugging  
+- **VS Code / Eclipse** — Development environments  
 
-**Core Concepts**
-- RESTful APIs
-- MVC Architecture
-- Authentication & Authorization
-- CRUD Operations
-- Client–Server Architecture
+### 🧠 Engineering Concepts
+- RESTful API Design  
+- MVC Architecture  
+- Authentication & Authorization  
+- CRUD Operations  
+- Client–Server Communication
 
 ---
 
