@@ -3,10 +3,6 @@
 👨‍💻 AI-ML Engineer
 
 ---
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
 
 ## 🚀 About Me
 
@@ -75,6 +71,11 @@ A real-time ticketing system built to track, update, and resolve issues efficien
 - Structured issue resolution workflow
 - Designed for operational efficiency
 - Focus on responsiveness and scalability
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
