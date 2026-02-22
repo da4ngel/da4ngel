@@ -79,8 +79,6 @@ My repositories reflect real development workflows rather than one-off experimen
 ⭐ If you’re a recruiter or developer, feel free to explore my repositories and reach out. I’m always open to learning, collaboration, and new opportunities.
 
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 
