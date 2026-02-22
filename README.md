@@ -96,7 +96,7 @@ My repositories reflect real development workflows rather than one-off experimen
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
 
